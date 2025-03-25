@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp_fix/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
